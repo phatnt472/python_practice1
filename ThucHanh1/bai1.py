@@ -1,0 +1,8 @@
+ten=input("Nhập họ và tên: ")
+mssv=input("Nhập mã số sinh viên: ")
+lop=input("Nhập lớp: ")
+print("=============================================")
+print("Họ và tên:",ten)
+print("Mã số sinh viên:",mssv)
+print("Lớp:",lop)
+print("=============================================")
